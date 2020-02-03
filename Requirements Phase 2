@@ -7,3 +7,10 @@ Web: User info -> move the word 'THE': ADD & VIEW INFORMATION ABOUT THE USER
 Same as #4: move 'THE' under Dealership Info
 Web: Add Dealer, Make needs to be in alphabetical order
 Web: Payment Details, replace 'ENTER BACK UP CARD INFO FOR RECURRING PAYMENT' with 'ENTER PAYMENT DETAILS'
+Web: On dashboard, ODO, we need the option to print, send email, and send fax to remain an option after an action has been made
+App: Under  Pick Up/ Drop Off/ Purchase, 'Picked by' needs to read ' Picked Up By'
+App: The share button should send the lease Intake file NOT the odometer statement which is available to send via fax and email
+All emails of the file (customer, manager, service, etc.) should include the customer's signature with the pop up they agreed to either below or next to their signature.  
+Can we add a confirmed recall to the notifications? And Can we make the recall field available to check on motorsafety.org AFTER the file has been saved?
+Once a photo is taken, we should be able to delete it and default back to the original icon image. For App its done, For web need to be worked out
+We also need to add to the user permission options the ability change pick up/drop off/purchase so only those with permission can do so.

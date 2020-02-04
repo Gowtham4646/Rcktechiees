@@ -1,0 +1,7 @@
+Email :Use #1-4 on the dropped off email, subject: Lease Return Confirmation
+Email: "This is a lease return confirmation and not a receipt of inspection. Additional fees may be required from the leasing institution. Recall, warranty and maintenance work may be performed at no cost to you."This is in addition to the #1-5 on the customer acknowledgment email and in addition to #1-4 on the dropped off email
+Web/APP: Mandatory Fields -> Vehicle Info - Change to not mandatory: (color, valet key, jack, spare tire, owners manual)App: Glitch -> While submitting a report, it is missing the filling in just one required field of the vehicle details, that whole section will clear.
+APP/Web: Mandatory fields -> Image Uploads - Change the mandatory odometer pic to Odometer or Drivers License 
+App: Bank Details -> Users with permission to edit please. It can be listed under permissions as 'Edit Files'
+We changed the 'Hot New Lease Added' email to 'Hot New Pre-Owned Opportunity'. Please update that on the email and in the permissions section of the user info
+App: Some report have bank details yellow and editable, some are green and not editable but all the info. is filled on both

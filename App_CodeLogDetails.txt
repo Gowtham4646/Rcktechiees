@@ -142,3 +142,5 @@ Log Entry :
 11/28/2016 18:14:04
 Log Details  http://localhost:7905/wepaythemax_final_live_code_15th_Nov_eve/Testimonials.aspx Method Name: Get_Start_insert_lead. log Message:dfg~fg~raju@rcktechiees.com~fg~2010~BMW~135~~~BILLBOARD~~127.0.0.1~http://localhost:7905/wepaythemax_final_live_code_15th_Nov_eve/Testimonials.aspx~http://localhost:7905/wepaythemax_final_live_code_15th_Nov_eve/Testimonials.aspx~~ORLANDO~~~
 ____________________________________________________END________________________________________________
+
+Need to analyze and deploy the code final release

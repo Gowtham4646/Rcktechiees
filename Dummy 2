@@ -5,3 +5,11 @@ APP/Web: Mandatory fields -> Image Uploads - Change the mandatory odometer pic t
 App: Bank Details -> Users with permission to edit please. It can be listed under permissions as 'Edit Files'
 We changed the 'Hot New Lease Added' email to 'Hot New Pre-Owned Opportunity'. Please update that on the email and in the permissions section of the user info
 App: Some report have bank details yellow and editable, some are green and not editable but all the info. is filled on both
+App: Glitch -> While submitting a report, it is missing the filling in just one required field of the vehicle details, that whole section will clear.
+App: Multiple Rooftop is broken -> tried my login, Brian's and Tommy's and none show the option to switch between stores 
+Web: Glitch -> All the fields have the number 54 but they each need to have their own quantity based on what it is.
+Web: Capitalize the word 'search' for 'Search Dealers' under User Info
+When trying to print, the printers are cut off so either the font should be smaller to fit the page or add a scroll to see the entire name (see screenshot)
+App: Picture not loading properly, need to take several shots to view it
+When setting up new users, after the 1st user is submitted, the submit button doesn't work on adding additional users. I have to log out and log back in after each user is added
+Profile and Change Password buttons do not work.
